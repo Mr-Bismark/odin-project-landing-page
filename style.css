@@ -117,3 +117,9 @@ header{
     text-align: center;
     color: #5b5b5f;
 }
+
+.info .cards .cardTitle{
+    font-weight: bold;
+    display: block;
+    font-size: 1.1em;
+}
