@@ -143,3 +143,44 @@ header{
     float: right;
     font-size: 20px;
 }
+
+/* 
+    This section styles the call to action section
+*/
+
+.cta{
+    padding: 100px 100px;
+}
+
+.ctaContainer{
+    background-color: #3882f6;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 150px;
+    border-radius: 10px;
+}
+
+.cta .content p{
+    width: 70%;
+    color: #eaede9;
+;
+}
+
+.cta .content p span{
+    color: white;
+    display: block;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+.cta button{
+    box-sizing: border-box;
+    background-color: #3882f6;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: white;
+    width: 100px;
+}
