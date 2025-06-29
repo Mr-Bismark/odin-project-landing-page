@@ -123,3 +123,23 @@ header{
     display: block;
     font-size: 1.1em;
 }
+
+/* 
+    This section styles the testimonial section
+*/
+
+.testimonial{
+    background-color: #e5e7eb;
+    padding: 80px 200px;
+}
+
+.testimonial blockquote p{
+    font-size: 36px;
+    font-style: italic;
+}
+
+.testimonial blockquote footer{
+    font-weight: bold;
+    float: right;
+    font-size: 20px;
+}
