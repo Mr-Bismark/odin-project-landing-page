@@ -138,6 +138,7 @@ header{
 .testimonial blockquote p{
     font-size: 36px;
     font-style: italic;
+    font-weight: 200;
 }
 
 .testimonial blockquote .footer{
