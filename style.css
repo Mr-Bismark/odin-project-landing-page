@@ -70,6 +70,8 @@ header{
     border-radius: 5px;
     color: white;
     cursor: pointer;
+    font-weight: bold;
+    font-size: 1.1em;
 }
 
 .heroImage{
@@ -138,7 +140,7 @@ header{
     font-style: italic;
 }
 
-.testimonial blockquote footer{
+.testimonial blockquote .footer{
     font-weight: bold;
     float: right;
     font-size: 20px;
@@ -183,4 +185,17 @@ header{
     cursor: pointer;
     color: white;
     width: 100px;
+}
+
+/* 
+    This section styles the footer
+*/
+
+body footer{
+    background-color: #1f2937;
+    padding: 25px 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
 }
