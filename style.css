@@ -144,7 +144,8 @@ header{
 .testimonial blockquote .footer{
     font-weight: bold;
     float: right;
-    font-size: 20px;
+    font-size: 1.3em;
+    
 }
 
 /* 
